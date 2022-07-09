@@ -1,3 +1,7 @@
+/**
+* implemented conditionals to arrive at dynamic results
+*/
+
 #prompts the user to ask for the number of books you have purchased this month
 num = int(input("How many books have you purchased this month?")) # 
 

@@ -1,3 +1,9 @@
+/**
+* implemented conditional statements
+* used arrays, lists, to understand data structures
+* learnt how to use str(input)
+*/
+
 career = ["You may want to consider a career as a MECHANIC", "You may want to explore a career as a MUSICIAN", "You may want to consider a career in PROGRAMMING", "You may want to purse a career in NURSING"] # career list
 
 advice = ["Mechanics require good technical knowledge of automotive engines", "Musicians must practice excellent voice control", "Programmers must have excellent knowledge of fundamental programming concepts", "Nurses are genuine, caring person"] # advice list

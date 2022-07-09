@@ -1,3 +1,8 @@
+/**
+* int(input) - adds functionality by getting input from a user
+* print() - prints output  
+*/
+
 #prompts the user to give values for the value of the wall in square feet
 wall = int(input("Enter the square feet of wall to be painted: "))
 price = int(input("Enter price of the paint per gallon: "))

@@ -1,3 +1,7 @@
+/**
+* simple program to calculate fat in grams and carbs in grams
+*/
+
 #ask the user the amount of fat in grams they consume in a day
 nutritionist = str(input("Please enter the number of fat in grams do you consume in a day: \n"))
 

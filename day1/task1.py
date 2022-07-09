@@ -1,3 +1,8 @@
+/**
+* Bus Fare Challenge – Task One (Day 1)
+* date.today() - prints the current days date
+*/
+
 from datetime import datetime  # imports third party libraries to manipulate time
 from datetime import date
 

@@ -1,3 +1,9 @@
+/**
+* used datetime library to get the exact date and time
+* used strftime() method to return a string representing date and time
+* used the ternary operator != 
+*/
+
 #datetime library used to manipulate time events
 
 from datetime import datetime 

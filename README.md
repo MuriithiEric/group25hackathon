@@ -4,7 +4,7 @@
 ![readmelogo](https://user-images.githubusercontent.com/56841703/178163332-ca95c296-a4dd-4c77-80bc-3e7699af3ecb.png)
 
 
-In this github repo, we as group number 25 solved a myriad of coding challenges using python :smile:
+In this github repo, we solved a myriad of coding challenges using python :smile:
 
  
 # Problem Statement :pencil2:
